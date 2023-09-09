@@ -62,11 +62,11 @@ params:
     imageWidth: 220
     imageHeight: 220
     imageTitle: profile-photo
-    buttons:
-      - name: Posts
-        url: "https://riteshsonawane.com"
-      - name: Tags
-        url: tags
+    # buttons:
+    #   - name: Posts
+    #     url: "https://riteshsonawane.com"
+    #   - name: Tags
+    #     url: tags
 
   # home-info mode
   homeInfoParams:
@@ -113,16 +113,16 @@ menu:
   main:
     - identifier: categories
       name: Blog
-      url: /categories/
+      url: "https://blog.riteshsonawane.com/"
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: project 
-      name: Projects
-      url: https://riteshsonawane.com
-      weight: 30
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    #   weight: 20
+    # - identifier: project 
+    #   name: Projects
+    #   url: https://riteshsonawane.com
+    #   weight: 30
 pygmentsUseClasses: true
 markup:
   highlight:
