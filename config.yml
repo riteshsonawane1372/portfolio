@@ -114,12 +114,12 @@ params:
 menu:
   main:
     - identifier: categories
-      name: Blog
-      url: "https://blog.riteshsonawane.com/"
+      name: remote-jobs
+      url: "https://remote-jobs.riteshsonawane.com"
       weight: 10
     - identifier: categories
-      name: Remote-jobs
-      url: "https://remote-jobs.riteshsonawane.com"
+      name: Blog
+      url: "https://blog.riteshsonawane.com/"
       weight: 10
 pygmentsUseClasses: true
 markup:
