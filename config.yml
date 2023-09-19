@@ -85,11 +85,11 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "riteshsonawane"
+      SiteVerificationTag: "ritesh sonawane1372"
     bing:
-      SiteVerificationTag: "riteshsonawane"
+      SiteVerificationTag: "ritesh sonawane"
     yandex:
-      SiteVerificationTag: "riteshsonawane"
+      SiteVerificationTag: "ritesh sonawane"
 
   cover:
     hidden: false # hide everywhere but not in structured data
@@ -117,14 +117,10 @@ menu:
       name: Blog
       url: "https://blog.riteshsonawane.com/"
       weight: 10
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 20
-    # - identifier: project 
-    #   name: Projects
-    #   url: https://riteshsonawane.com
-    #   weight: 30
+    - identifier: categories
+      name: Remote-jobs
+      url: "https://remote-jobs.riteshsonawane.com"
+      weight: 10
 pygmentsUseClasses: true
 markup:
   highlight:
