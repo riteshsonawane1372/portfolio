@@ -62,11 +62,11 @@ params:
     imageWidth: 220
     imageHeight: 220
     imageTitle: profile-photo
-    # buttons:
-    #   - name: Posts
-    #     url: "https://riteshsonawane.com"
-    #   - name: Tags
-    #     url: tags
+    buttons:
+      - name: Blogs
+        url: "https://blog.riteshsonawane.com"
+      - name: Remote-Jobs
+        url: "https://remote-jobs.riteshsonawane.com"
 
   # home-info mode
   homeInfoParams:
@@ -113,14 +113,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: remote-jobs
-      url: "https://remote-jobs.riteshsonawane.com"
-      weight: 10
-    - identifier: categories
-      name: Blog
-      url: "https://blog.riteshsonawane.com/"
-      weight: 10
+    # - identifier: categories
+    #   name: remote-jobs
+    #   url: "https://remote-jobs.riteshsonawane.com"
+    #   weight: 10
+    # - identifier: categories
+    #   name: Blog
+    #   url: "https://blog.riteshsonawane.com/"
+    #   weight: 10
 pygmentsUseClasses: true
 markup:
   highlight:
