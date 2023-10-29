@@ -1,0 +1,18 @@
+name: Deep Source
+on: workflow_dispatch
+jobs:
+  scan: 
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}
+
+  # Run your tests here ...
+
+    - name: Report test-coverage to DeepSource
+      run: |
+        # Install the CLI
+        curl https://deepsource.io/cli | sh # Send the report to DeepSource
+        ./bin/deepsource report --analyzer test-coverage --key javascript --value-file . 
