@@ -22,7 +22,6 @@ params:
   author: Me
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -49,7 +48,7 @@ params:
     safari_pinned_tab: "/favicon-16x16.png"
 
   label:
-    text: "Ritesh Sonawane"
+    text: "Ritesh"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -57,17 +56,14 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ritesh Sonawane
-    subtitle: "Golang and Devops Engineer. Don't forget to Connect 😊"
+    subtitle: "Hi, I'm a DevOps Engineer along with a Golang Developer. I write blogs about kubernetes, Cloud native, DevOps. Do check my blogs at blogs.pidoku.co.in"
     imageUrl: "/profile-photo.png"
     imageWidth: 220
     imageHeight: 220
     imageTitle: profile-photo
     buttons:
       - name: Blogs
-        url: "https://blog.riteshsonawane.com"
-      - name: Remote-Jobs
-        url: "https://remote-jobs.riteshsonawane.com"
-
+        url: "https://blog.pidoku.com"
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
@@ -76,8 +72,6 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/RiteshS14112760"
-    - name: instagram
-      url: "https://www.instagram.com/_ritesh1372/"
     - name: github
       url: "https://github.com/riteshsonawane1372"
     - name: linkedin
