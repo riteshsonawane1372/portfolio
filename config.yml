@@ -56,14 +56,14 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ritesh Sonawane
-    subtitle: "Hi, I'm a DevOps Engineer along with a Golang Developer. I write blogs about kubernetes, Cloud native, DevOps. Do check my blogs at blogs.pidoku.co.in"
+    subtitle: "Hey , I'm a Ritesh Sonawane an Associate SRE at CloudRaft. I love to share my learnings. Check my blogs if you are interested in DevOps, SRE and Cloud native"
     imageUrl: "/profile-photo.png"
     imageWidth: 220
     imageHeight: 220
     imageTitle: profile-photo
     buttons:
       - name: Blogs
-        url: "https://blog.pidoku.com"
+        url: "https://pidoku.co.in"
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
