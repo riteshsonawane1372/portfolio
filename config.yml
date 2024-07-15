@@ -56,10 +56,10 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ritesh Sonawane
-    subtitle: "Hey , I'm a Ritesh Sonawane an Associate SRE at CloudRaft. I love to share my learnings. Check my blogs if you are interested in DevOps, SRE and Cloud native"
+    subtitle: "Hey 👋, I'm Ritesh an Associate SRE at CloudRaf. Check my blogs if you are interested in DevOps, SRE or Cloud native tech"
     imageUrl: "/profile-photo.png"
-    imageWidth: 220
-    imageHeight: 220
+    imageWidth: 180
+    imageHeight: 180
     imageTitle: profile-photo
     buttons:
       - name: Blogs
