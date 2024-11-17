@@ -56,7 +56,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ritesh Sonawane
-    subtitle: "Hey there! I'm Ritesh Sonawane from India 🇮🇳, currently working remotely as an Associate SRE at CloudRaft. My days are all about Kubernetes, Observability, and Golang. I’ve got a knack for setting up and maintaining production-grade Kubernetes clusters across AWS, Azure, and bare-metal servers using Infrastructure as Code (IaC) and GitOps principles. Plus, I love helping clients streamline their deployment processes with rock-solid CI/CD pipelines.At CloudRaft, I tap into Golang for internal projects and it's my go-to for personal projects too. I’m all about exploring low-level tech, and with the current AI/LLM surge, I’m also dabbling in AI agent development. Still, Kubernetes and Observability remain my bread and butter. Oh, and I write blogs about what I learn and build—so make sure to check them out by clicking the button below! Don’t forget to connect with me! My social links are just below. And who knows, maybe we’ll cross paths at a tech event or conference"
+    subtitle: "Associate SRE at CloudRaft, focusing on Kubernetes and Observability. I am also a Certified Kubernetes Administrator (CKA)."
     imageUrl: "/profile-photo.png"
     imageWidth: 180
     imageHeight: 180
